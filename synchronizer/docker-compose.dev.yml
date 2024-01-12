@@ -1,0 +1,15 @@
+version: "3.9"
+
+volumes:
+  data:
+    driver: local
+
+services:
+  postgres:
+    image: postgres:latest
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: trust
+    volumes:
+      - data:/data
