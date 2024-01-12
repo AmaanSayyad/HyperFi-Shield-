@@ -1,0 +1,68 @@
+{
+  "strategies": [
+    {
+      "id": 1,
+      "name": "Supply Uniswap WMATIC/WETH",
+      "type": "supply-uniswap",
+      "network": "maticmum",
+      "contract": "0x7F855BDcb03bCb6e3b66Ecbd028363397174481a",
+      "data": {
+        "poolId": "0",
+        "poolFee": "100",
+        "token0": {
+          "symbol": "WMATIC",
+          "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889"
+        },
+        "token1": {
+          "symbol": "WETH",
+          "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Supply Uniswap WMATIC/WETH",
+      "type": "supply-uniswap",
+      "network": "matic",
+      "contract": "0xC9Fc250Ab92a802fCc96719eBE17c9c831aDF264",
+      "data": {
+        "poolId": "1",
+        "poolFee": "100",
+        "token0": {
+          "symbol": "WMATIC",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        },
+        "token1": {
+          "symbol": "WETH",
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "Supply Aave WMATIC",
+      "type": "supply-aave",
+      "network": "maticmum",
+      "contract": "0x125dF0B4Ab64Bf6AeD9Fdac6FbaBc4Cf441614B7",
+      "data": {
+        "token": {
+          "symbol": "WMATIC",
+          "address": "0xb685400156cF3CBE8725958DeAA61436727A30c3"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Supply Aave WMATIC",
+      "type": "supply-aave",
+      "network": "matic",
+      "contract": "0xe47fF9b7Ae4888492cEB892cb52ab43fcD08b2aC",
+      "data": {
+        "token": {
+          "symbol": "WMATIC",
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        }
+      }
+    }
+  ]
+}
