@@ -30,19 +30,19 @@ HyperFi Shield aims to make a tangible impact by:
 
 ## What's Next for HyperFi Shield:
 
-1. Roadmap Expansion: Stay tuned as we expand our roadmap to include:
+1. Roadmap Expansion:
 - 📚 Enhanced Educational Resources: Deeper insights and guides into DeFi concepts (Onboarding Web3 Content Creators to create Youtube Video Tutorials + Bloggers).
-- 📈 Advanced APY Tracking: Improved real-time APY tracking from a wider range of exchanges (Premium Features that displays a list of exchanges and allows users to select according to their prespective) Concept relies of 1 User = N Exchanges resembling like Upwork/Skyscanner/Trivago.
+- 📈 Advanced APY Tracking: Improved real-time APY tracking from a wider range of exchanges (Premium Features that display a list of exchanges and allow users to select according to their perspective) Concept relies on 1 User = N Exchanges resembling like Upwork/Skyscanner/Trivago.
 - 🔐 Enhanced Security Measures: Strengthening our security protocols for user protection (Public Treasury Address display on explorers).
 
-2. Community Engagement: Join our growing community as we:
+2. Community Engagement:
 - 🤝 Forge Partnerships: Collaborate with key players to broaden our reach and impact.
 
-3. User-Centric Enhancements: Expect user-centric updates such:
+3. User-Centric Enhancements:
 - 📱 Enhanced User Experience: Improved platform navigation and usability.
 - 🛡️ Added Security Features: Additional layers of security for user funds.
 
-4. Innovation in DeFi: Prepare for pioneering advancements including:
+4. Innovation in DeFi:
 - 🌟 New DeFi Features: Unveiling innovative DeFi functionalities and options.
 - 🚀 Advanced Investment Avenues: Introducing more secure and lucrative investment opportunities.
 
