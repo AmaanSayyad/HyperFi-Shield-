@@ -30,25 +30,20 @@ HyperFi Shield aims to make a tangible impact by:
 
 ## What's Next for HyperFi Shield:
 
-Roadmap Expansion: Stay tuned as we expand our roadmap to include:
+1. Roadmap Expansion: Stay tuned as we expand our roadmap to include:
 - 📚 Enhanced Educational Resources: Deeper insights and guides into DeFi concepts (Onboarding Web3 Content Creators to create Youtube Video Tutorials + Bloggers).
 - 📈 Advanced APY Tracking: Improved real-time APY tracking from a wider range of exchanges (Premium Features that displays a list of exchanges and allows users to select according to their prespective) Concept relies of 1 User = N Exchanges resembling like Upwork/Skyscanner/Trivago.
 - 🔐 Enhanced Security Measures: Strengthening our security protocols for user protection (Public Treasury Address display on explorers).
 
-Community Engagement: Join our growing community as we
-
+2. Community Engagement: Join our growing community as we:
 - 🤝 Forge Partnerships: Collaborate with key players to broaden our reach and impact.
 
-User-Centric Enhancements: Expect user-centric updates such 
+3. User-Centric Enhancements: Expect user-centric updates such:
+- 📱 Enhanced User Experience: Improved platform navigation and usability.
+- 🛡️ Added Security Features: Additional layers of security for user funds.
 
--📱 Enhanced User Experience: Improved platform navigation and usability.
-
--🛡️ Added Security Features: Additional layers of security for user funds.
-
-Innovation in DeFi: Prepare for pioneering advancements including
-
--🌟 New DeFi Features: Unveiling innovative DeFi functionalities and options.
-
--🚀 Advanced Investment Avenues: Introducing more secure and lucrative investment opportunities.
+4. Innovation in DeFi: Prepare for pioneering advancements including:
+- 🌟 New DeFi Features: Unveiling innovative DeFi functionalities and options.
+- 🚀 Advanced Investment Avenues: Introducing more secure and lucrative investment opportunities.
 
 Stay tuned as HyperFi Shield evolves to redefine the landscape of decentralized finance, empowering users with cutting-edge solutions and unparalleled financial resilience. Join us in shaping the future of finance! 🌟💰
